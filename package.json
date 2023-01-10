@@ -1,0 +1,19 @@
+{
+  "name": "discord-express-node",
+  "version": "1.0.0",
+  "description": "A discord server for running a chatgpt bot, running on express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chiso",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "openai": "^3.1.0"
+  }
+}
